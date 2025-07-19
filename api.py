@@ -3,7 +3,6 @@
 https://t.me/Neo_Galaxy
 
 import utils
-
 class Account:
     def __init__(self) -> None:
         self.registered = 0
